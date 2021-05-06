@@ -69,7 +69,7 @@ public class Hometask2 {
         String inputLocator = "//*[@id=\"searchNumber\"]";
         String loaderLocator= "//*[@class=\"preloader-icon\"]";
         String numbersLocator = "//span[@class=\"phone-number\"]";
-        String searchQuery = "2000";
+        String searchQuery = "97";
         driver.get(tele2Site);
         logger.info("Переход на сайт " + tele2Site);
 
